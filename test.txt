@@ -3,4 +3,11 @@ ijasdjasdlkjaskldjkadsj
 asdjasdijlsadj
 changes made
 another one
+<<<<<<< HEAD
 hello adding line
+=======
+<<<<<<< HEAD
+=======
+hello adding line
+>>>>>>> origin/master
+>>>>>>> origin/chahat
