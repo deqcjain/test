@@ -3,3 +3,7 @@ ijasdjasdlkjaskldjkadsj
 asdjasdijlsadj
 changes made
 another one
+<<<<<<< HEAD
+=======
+hello adding line
+>>>>>>> origin/master
